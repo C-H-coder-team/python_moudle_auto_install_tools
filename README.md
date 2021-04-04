@@ -3,3 +3,5 @@
 -It will update on this month week 2 sunday.
 
 -This software progarams by fanjun.
+
+-it writes by c++.
