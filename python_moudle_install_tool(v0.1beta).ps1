@@ -19,6 +19,8 @@ pip install SQLAlchemy
 pip install mongoengine
 		
 pip install django
+
+pip install PyInstaller
 		
 pip install flask
 		
