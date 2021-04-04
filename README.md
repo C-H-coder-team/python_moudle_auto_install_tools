@@ -4,4 +4,4 @@
 
 -This software progarams by fanjun.
 
--it writes by c++.
+-it writes by c++ and powershell.
