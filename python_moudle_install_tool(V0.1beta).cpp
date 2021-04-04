@@ -31,6 +31,8 @@ int main()
 		Sleep(500);
 		system("pip install pymongo");
 		Sleep(500);
+		system("pip install PyInstaller");
+		Sleep(500);
 		system("pip install SQLAlchemy");
 		Sleep(500);
 		system("pip install mongoengine");
