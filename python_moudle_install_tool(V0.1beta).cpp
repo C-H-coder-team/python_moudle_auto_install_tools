@@ -3,17 +3,17 @@
 #include<fstream>
 #include<algorithm>
 #include<time.h>
-//Í·ÎÄ¼ş
+//å¤´æ–‡ä»¶
 using namespace std;
-//ÃüÃû¿Õ¼ä
+//å‘½åç©ºé—´
 int main()
 {
-	cout << "×¢ÒâÊÂÏî£º" << endl
-		<< "1.ÓĞpython" << endl
-		<< "2.°²×°Ê±´ò¿ªÁËpipÑ¡Ïî" << endl
-		<< "3.ÍøÂçÁ¼ºÃ(ping python.org µÄavg.>=300)" << endl
-		<< "4.ÊÇWindowsÏµÍ³" << endl
-		<< "È«²¿Âú×ã£¿ÊÇ<Y>/·ñ<ÈÎÒâ¼ü>" << endl;
+	cout << "æ³¨æ„äº‹é¡¹ï¼š" << endl
+		<< "1.æœ‰python" << endl
+		<< "2.å®‰è£…æ—¶æ‰“å¼€äº†pipé€‰é¡¹" << endl
+		<< "3.ç½‘ç»œè‰¯å¥½(ping python.org çš„avg.<=300)" << endl
+		<< "4.æ˜¯Windowsç³»ç»Ÿ" << endl
+		<< "å…¨éƒ¨æ»¡è¶³ï¼Ÿæ˜¯<Y>/å¦<ä»»æ„é”®>" << endl;
 	char i1;
 	cin >> i1;
 	if (i1 == 'Y' || i1 == 'y')
